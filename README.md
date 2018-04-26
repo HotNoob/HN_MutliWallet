@@ -25,6 +25,8 @@ Road Map / Todo
 
 ## Beta Phase
 
+. detailed UI developement
+
 . further develope plugin system
 
 . debug / bug reporting 
