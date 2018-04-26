@@ -43,6 +43,8 @@ Road Map / Todo
 
 . 2FA 
 
+. focus adding support for large amount of alt coins
+
 ## Late Developement
 
 . Ethereum Support
