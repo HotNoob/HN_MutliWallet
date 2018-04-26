@@ -7,7 +7,7 @@ Road Map / Todo
 
 . handling of offline wallets -- [started]
 
-. In-depth statistics
+. statistics graph
 
 . detailed user-friendly settings
 
@@ -30,3 +30,5 @@ Road Map / Todo
 . debug / bug reporting 
 
 . detailed logging system / options
+
+. more in-depth statistics
