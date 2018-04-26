@@ -21,8 +21,12 @@ Road Map / Todo
 
 . user friendly alerts
 
+. ip address check settings
+
 ## Beta Phase
 
 . further develope plugin system
 
 . debug / bug reporting 
+
+. detailed logging system / options
