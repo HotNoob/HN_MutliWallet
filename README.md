@@ -43,7 +43,7 @@ Road Map / Todo
 
 . 2FA 
 
-. focus adding support for large amount of alt coins
+. focus adding support for large amount of alt coins. focus performance / large wallet support.
 
 ## Late Developement
 
