@@ -33,6 +33,10 @@ Road Map / Todo
 
 . more in-depth statistics
 
+. E-mail / desktop notifications
+
+. 2FA 
+
 ## Late Developement
 
 . Ethereum Support
