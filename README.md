@@ -25,6 +25,8 @@ Road Map / Todo
 
 ## Beta Phase
 
+. auto backup feature via backupwallet command
+
 . detailed UI developement
 
 . further develope plugin system
