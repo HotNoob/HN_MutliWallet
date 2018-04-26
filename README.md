@@ -15,13 +15,15 @@ Road Map / Todo
 
 . update system - manual / auto ?
 
-. simple deployment system.
+. simple deployment system. -- prefer alpha, maybe push beta.
 
 . clean library files / unused -- [started] 
 
 . user friendly alerts
 
 . ip address check settings
+
+. auto update coin settings list. maybe use folders so user can make custom ect...
 
 ## Beta Phase
 
