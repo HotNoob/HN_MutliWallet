@@ -32,3 +32,9 @@ Road Map / Todo
 . detailed logging system / options
 
 . more in-depth statistics
+
+## Late Developement
+
+. Ethereum Support
+
+. Online Wallet Support -- if possible; low priority.
