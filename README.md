@@ -3,6 +3,8 @@
 
 Road Map / Todo
 
+## Alpha Phase
+
 . handling of offline wallets -- [started]
 
 . In-depth statistics
@@ -17,3 +19,6 @@ Road Map / Todo
 
 . clean library files / unused -- [started] 
 
+## Beta Phase
+
+. further develope plugin system
