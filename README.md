@@ -3,7 +3,7 @@
 
 Road Map / Todo
 
-. handling of offline wallets 
+. handling of offline wallets -- [started]
 
 . In-depth statistics
 
@@ -13,7 +13,7 @@ Road Map / Todo
 
 . update system - manual / auto ?
 
-. simple deployment system. 
+. simple deployment system.
 
-. clean library files / unused
+. clean library files / unused -- [started] 
 
