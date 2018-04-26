@@ -19,6 +19,10 @@ Road Map / Todo
 
 . clean library files / unused -- [started] 
 
+. user friendly alerts
+
 ## Beta Phase
 
 . further develope plugin system
+
+. debug / bug reporting 
